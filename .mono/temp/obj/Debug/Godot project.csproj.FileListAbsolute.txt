@@ -1,9 +1,0 @@
-C:\Godot\TestProject\godot-project\.mono\temp\bin\Debug\Godot project.dll
-C:\Godot\TestProject\godot-project\.mono\temp\bin\Debug\Godot project.pdb
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.csproj.AssemblyReference.cache
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.GeneratedMSBuildEditorConfig.editorconfig
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.AssemblyInfoInputs.cache
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.AssemblyInfo.cs
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.csproj.CoreCompileInputs.cache
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.dll
-C:\Godot\TestProject\godot-project\.mono\temp\obj\Debug\Godot project.pdb
