@@ -30,6 +30,8 @@ public class Main : Node
 	
 	public void GameOver()
 	{
+		GetNode<AudioStreamPlayer>("Music").Stop();
+		GetNode<AudioStreamPlayer>("DeathSound").Play();
 		GetNode<Timer>("MobTimer").Stop();
 		GetNode<Timer>("ScoreTimer").Stop();
 		GetNode<HUD>("HUD").ShowGameOver();
@@ -39,6 +41,7 @@ public class Main : Node
 	{
 		Score = 0;
 
+		GetNode<AudioStreamPlayer>("Music").Play();
 		var player = GetNode<Player>("Player");
 		var startPosition = GetNode<Position2D>("StartPosition");
 		player.Start(startPosition.Position);
