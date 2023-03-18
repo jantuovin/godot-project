@@ -67,6 +67,9 @@ public class Main : Node
 	public void OnScoreTimerTimeout()
 	{
 		Score++;
+		GetNode<Timer>("MobTimer").Start();
+		GetNode<Timer>("ScoreTimer").Start();
+		GetNode<HUD>("HUD").UpdateScore(Score);
 	}
 
 	private void _on_ScoreTimer_timeout()
@@ -109,4 +112,11 @@ public class Main : Node
 	{
 		OnMobTimerTimeout();
 	}
+	
+	private void _on_HUD_StartGame()
+	{
+		NewGame();
+	}
 }
+
+
