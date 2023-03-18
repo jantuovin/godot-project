@@ -45,10 +45,8 @@ frames = SubResource( 1 )
 animation = "fly"
 playing = true
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-
-[node name="VisibilityNotifier2D" type="VisibilityNotifier2D" parent="."]
-
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="."]
 rotation = 1.5708
 shape = SubResource( 2 )
+
+[node name="VisibilityNotifier2D" type="VisibilityNotifier2D" parent="."]
