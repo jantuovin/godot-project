@@ -1,0 +1,8 @@
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\bin\Debug\Godot project.dll
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\bin\Debug\Godot project.pdb
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.csprojAssemblyReference.cache
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.AssemblyInfoInputs.cache
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.AssemblyInfo.cs
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.csproj.CoreCompileInputs.cache
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.dll
+C:\Users\jantu\Documents\git\godot-project\.mono\temp\obj\Debug\Godot project.pdb
